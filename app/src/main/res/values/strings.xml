@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Aplicaction</string>
+    <string name="button_login">LOGIN</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+</resources>
